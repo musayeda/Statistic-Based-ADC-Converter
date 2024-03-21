@@ -1,0 +1,602 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e vcom 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/intelFPGA_lite/22.1std/PROJECT_CIRCUIT/simulation/questa
+T_opt
+!s110 1698437655
+VE1DL0]3BkMXo3g2JN3M732
+04 12 17 work proj_ckt_tb3 proj_ckt_tb3_arch 1
+=1-088fc31b758d-653c1a17-4f-a2c
+Z2 !s124 OEM10U3 
+Z3 o-quiet -auto_acc_if_foreign -work work -L altera -L cycloneive -L gate_work -L work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1698687391
+ViDe0gaO06LBSdiA0D7E?m3
+Z6 04 12 17 work proj_ckt_tb5 proj_ckt_tb5_arch 1
+=1-088fc31b758d-653fe99f-194-536c
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt10
+!s110 1698696342
+V?od0hE0e@Rn;hCdEIe6103
+R6
+=1-088fc31b758d-65400c95-39e-19c
+R2
+R3
+R4
+n@_opt10
+R5
+R1
+T_opt11
+!s110 1698717210
+V9?dc:GmM]R<l?o[_iDO^?1
+R6
+=1-088fc31b758d-65405e19-2b4-3088
+R2
+R3
+R4
+n@_opt11
+R5
+R1
+T_opt12
+!s110 1699229690
+V=FV8L@gX7SF9VHzN5DdYi0
+R6
+=1-088fc31b758d-65482ffa-dc-2430
+R2
+R3
+R4
+n@_opt12
+R5
+R1
+T_opt13
+!s110 1699233352
+VYci06P_KCTd2U<NVTS3Ke3
+R6
+=1-088fc31b758d-65483e47-2df-3240
+R2
+R3
+R4
+n@_opt13
+R5
+R1
+T_opt14
+!s110 1699233838
+V^eSWMAe0E;hzSNa[F0Wbi0
+R6
+=1-088fc31b758d-6548402e-188-4e7c
+R2
+R3
+R4
+n@_opt14
+R5
+R1
+T_opt15
+!s110 1699288153
+VNKMn7`d9:6;OB<g31JK[Z1
+R6
+=1-088fc31b758d-65491459-6c-2ac4
+R2
+R3
+R4
+n@_opt15
+R5
+R1
+T_opt16
+!s110 1699288623
+VWTzD4kY7J=>kYUD7lhOI[2
+R6
+=1-088fc31b758d-6549162e-25b-820
+R2
+R3
+R4
+n@_opt16
+R5
+R1
+T_opt17
+!s110 1699288882
+V8C;;:]?0:8F[eN1FUX1ZU0
+R6
+=1-088fc31b758d-65491732-11a-1f50
+R2
+R3
+R4
+n@_opt17
+R5
+R1
+T_opt18
+!s110 1699289057
+VgP?1OSjGf>GNeKVA8F<E20
+R6
+=1-088fc31b758d-654917e1-11e-2c40
+R2
+R3
+R4
+n@_opt18
+R5
+R1
+T_opt19
+!s110 1699289226
+V>iODUB2f8iC7oT0inY6LT1
+R6
+=1-088fc31b758d-65491889-2fa-3e10
+R2
+R3
+R4
+n@_opt19
+R5
+R1
+T_opt2
+!s110 1698688014
+V`V@Pfo3]f8:AG_ZzIGXOg2
+R6
+=1-088fc31b758d-653fec0d-2c5-30c8
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+T_opt20
+!s110 1699289457
+VUDRQ<]g<2>@9bH:HJbnk_0
+R6
+=1-088fc31b758d-65491970-3a8-3530
+R2
+R3
+R4
+n@_opt20
+R5
+R1
+T_opt21
+!s110 1699289709
+V1<L8=J1I=WZg=bMGeCNF92
+R6
+=1-088fc31b758d-65491a6c-2d3-df8
+R2
+R3
+R4
+n@_opt21
+R5
+R1
+T_opt22
+!s110 1699290038
+V1oXLl6I:1hF`X_9V32iJU3
+R6
+=1-088fc31b758d-65491bb5-213-3bf8
+R2
+R3
+R4
+n@_opt22
+R5
+R1
+T_opt23
+!s110 1699296474
+VAbHl`ZHDWncbC]9U^@R<M2
+R6
+=1-088fc31b758d-654934d9-369-4524
+R2
+R3
+R4
+n@_opt23
+R5
+R1
+T_opt24
+!s110 1699296926
+VX3^A;Gh`>6GD>GkQJW:2I1
+R6
+=1-088fc31b758d-6549369d-1ce-36f0
+R2
+R3
+R4
+n@_opt24
+R5
+R1
+T_opt25
+!s110 1699297417
+V@@KP1Aaoc6i7zLJZIiTNM3
+R6
+=1-088fc31b758d-65493888-362-4298
+R2
+R3
+R4
+n@_opt25
+R5
+R1
+T_opt26
+!s110 1699297632
+VNX^I7;:VH1=@?`LYk>i_A3
+R6
+=1-088fc31b758d-65493960-d6-34c0
+R2
+R3
+R4
+n@_opt26
+R5
+R1
+T_opt27
+!s110 1699297790
+V7>I01H?0:j<ERRG_K759k0
+R6
+=1-088fc31b758d-654939fd-37e-25c4
+R2
+R3
+R4
+n@_opt27
+R5
+R1
+T_opt28
+!s110 1699298072
+VXQUVlfV^V;Ra6?;LhVmBM1
+R6
+=1-088fc31b758d-65493b18-40-3d70
+R2
+R3
+R4
+n@_opt28
+R5
+R1
+T_opt29
+!s110 1699497036
+VeKHj=7oKkh[31ITBTF^1H2
+R6
+=1-088fc31b758d-654c444c-214-3f24
+R2
+R3
+R4
+n@_opt29
+R5
+R1
+T_opt3
+!s110 1698688330
+VS;b4]aXDdG>AUV:m=fBlJ0
+R6
+=1-088fc31b758d-653fed49-34b-513c
+R2
+R3
+R4
+n@_opt3
+R5
+R1
+T_opt30
+!s110 1701440072
+VAN7DN^h[aUa^Oha?Y:Fo90
+R6
+=1-088fc31b758d-6569ea47-32d-c0c
+R2
+R3
+R4
+n@_opt30
+R5
+R1
+T_opt31
+!s110 1701440289
+VS>jXFW]=C5EfKcbS06i772
+R6
+=1-088fc31b758d-6569eb21-126-42d8
+R2
+R3
+R4
+n@_opt31
+R5
+R1
+T_opt32
+!s110 1701440463
+VSbm;RH8[kM9V[WgdnM@iC0
+R6
+=1-088fc31b758d-6569ebcf-201-4764
+R2
+R3
+R4
+n@_opt32
+R5
+R1
+T_opt33
+!s110 1701805194
+V2Mc=P2iXBAIZTjD]^aETZ0
+R6
+=1-088fc31b758d-656f7c89-10c-3d9c
+R2
+R3
+R4
+n@_opt33
+R5
+T_opt4
+!s110 1698688640
+V=@[39=g[mX0_FW[Wh036W0
+R6
+=1-088fc31b758d-653fee7f-2d1-5304
+R2
+R3
+R4
+n@_opt4
+R5
+R1
+T_opt5
+!s110 1698688905
+V?n_RDELB?SJONV7FaQc9R1
+R6
+=1-088fc31b758d-653fef88-3de-4a50
+R2
+R3
+R4
+n@_opt5
+R5
+R1
+T_opt6
+!s110 1698689429
+VKadUV8IdElCdd;U^ZDRWi3
+R6
+=1-088fc31b758d-653ff195-139-2f84
+R2
+R3
+R4
+n@_opt6
+R5
+R1
+T_opt7
+!s110 1698691014
+V`96J^U7?`@dbVFV=KRL:;0
+R6
+=1-088fc31b758d-653ff7c6-1b5-48cc
+R2
+R3
+R4
+n@_opt7
+R5
+R1
+T_opt8
+!s110 1698691500
+Vk]`RA9D`cA]>G`MGWCbh33
+R6
+=1-088fc31b758d-653ff9ac-e9-37d8
+R2
+R3
+R4
+n@_opt8
+R5
+R1
+T_opt9
+!s110 1698695502
+VZzacj;l8BVR66H=AXTGMa0
+R6
+=1-088fc31b758d-6540094d-2af-3f0c
+R2
+R3
+R4
+n@_opt9
+R5
+R1
+Ehard_block
+Z7 w1701805184
+Z8 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z9 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 2f3=Lc`XY`hMf__56;aG40
+Z10 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z11 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z12 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z13 DPx10 cycloneive 21 cycloneive_components 0 22 JKUzf[HafYzhzXnW?zDh60
+!i122 0
+R1
+Z14 8project_circuit.vho
+Z15 Fproject_circuit.vho
+l0
+L35 1
+Vi9a_SfXm?YhLI2dhm1j^51
+!s100 >mXi5[`cD`bFC`UBKA<om3
+Z16 OL;C;2021.2;73
+31
+Z17 !s110 1701805192
+!i10b 1
+Z18 !s108 1701805192.000000
+Z19 !s90 -reportprogress|300|-93|-work|work|project_circuit.vho|
+Z20 !s107 project_circuit.vho|
+!i113 0
+Z21 o-93 -work work
+Z22 tExplicit 1 CvgOpt 0
+Astructure
+R8
+R9
+R10
+R11
+R12
+R13
+DEx4 work 10 hard_block 0 22 i9a_SfXm?YhLI2dhm1j^51
+!i122 0
+l65
+L51 20
+VWdBQm4eNm6eGHO;iQNz`j1
+!s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R16
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 0
+R21
+R22
+Eproj_ckt_tb5
+Z23 w1699548149
+Z24 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z25 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z26 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+R9
+R13
+R8
+Z27 DPx6 altera 11 dffeas_pack 0 22 TQ^5KMh2RTWZ2DMjzQ9nl1
+R10
+R11
+R12
+Z28 DPx6 altera 28 altera_primitives_components 0 22 PeP4hI9?O;BKk::[TF3o:2
+!i122 1
+R1
+Z29 8C:/intelFPGA_lite/22.1std/PROJECT_CIRCUIT/simulation/questa/proj_ckt_tb5.vhd
+Z30 FC:/intelFPGA_lite/22.1std/PROJECT_CIRCUIT/simulation/questa/proj_ckt_tb5.vhd
+l0
+L11 1
+Vbh4g>E>BGom=anWe[4@5o1
+!s100 QB>5OA:D:`n@99M[JLT7N2
+R16
+31
+R17
+!i10b 1
+R18
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/22.1std/PROJECT_CIRCUIT/simulation/questa/proj_ckt_tb5.vhd|
+Z32 !s107 C:/intelFPGA_lite/22.1std/PROJECT_CIRCUIT/simulation/questa/proj_ckt_tb5.vhd|
+!i113 0
+R21
+R22
+Aproj_ckt_tb5_arch
+R24
+R25
+R26
+R9
+R13
+R8
+R27
+R10
+R11
+R12
+R28
+DEx4 work 12 proj_ckt_tb5 0 22 bh4g>E>BGom=anWe[4@5o1
+!i122 1
+l114
+L14 421
+V5mhQeb`P_EPIlLN6id[9=0
+!s100 zOYU=Xz5RBOLgT>c1@DoK2
+R16
+31
+R17
+!i10b 1
+R18
+R31
+R32
+!i113 0
+R21
+R22
+Eproject_circuit
+R7
+R9
+R13
+R8
+R27
+R10
+R11
+R12
+R28
+!i122 0
+R1
+R14
+R15
+l0
+L80 1
+V6cnF[NV>HiOMXP8Gn^^9E3
+!s100 k5F:2hHGib<Tk8>n6EFh73
+R16
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 0
+R21
+R22
+Astructure
+R9
+R13
+R8
+R27
+R10
+R11
+R12
+R28
+DEx4 work 15 project_circuit 0 22 6cnF[NV>HiOMXP8Gn^^9E3
+!i122 0
+l443
+L183 2893
+V3L3@3oU61MNgJIYF7OLSD2
+!s100 of>d0o<W9PgR>=_IfkCRd2
+R16
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 0
+R21
+R22
