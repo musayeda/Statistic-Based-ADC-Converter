@@ -1,0 +1,201 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "CLK9",
+					"strict" : false
+				},
+				{
+					"name" : "C0",
+					"strict" : false
+				},
+				{
+					"name" : "C0B",
+					"strict" : false
+				},
+				{
+					"name" : "C1",
+					"strict" : false
+				},
+				{
+					"name" : "C1B",
+					"strict" : false
+				},
+				{
+					"name" : "C2B",
+					"strict" : false
+				},
+				{
+					"name" : "C2",
+					"strict" : false
+				},
+				{
+					"name" : "C3",
+					"strict" : false
+				},
+				{
+					"name" : "C3B",
+					"strict" : false
+				},
+				{
+					"name" : "CLK8",
+					"strict" : false
+				},
+				{
+					"name" : "CLK7",
+					"strict" : false
+				},
+				{
+					"name" : "CLK6",
+					"strict" : false
+				},
+				{
+					"name" : "CLK2",
+					"strict" : false
+				},
+				{
+					"name" : "CLK3",
+					"strict" : false
+				},
+				{
+					"name" : "CLK4",
+					"strict" : false
+				},
+				{
+					"name" : "CLK5",
+					"strict" : false
+				},
+				{
+					"name" : "CLKCOMP",
+					"strict" : false
+				},
+				{
+					"name" : "CLKS",
+					"strict" : false
+				},
+				{
+					"name" : "B",
+					"strict" : false
+				},
+				{
+					"name" : "CLK1",
+					"strict" : false
+				},
+				{
+					"name" : "A",
+					"strict" : false
+				},
+				{
+					"name" : "C",
+					"strict" : false
+				},
+				{
+					"name" : "CLK10",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO[1]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CAP1P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP1N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP2P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP2N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP3P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP3N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP4P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP4N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP5P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP5N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP6P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP6N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP7P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP7N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP8P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP8N",
+					"strict" : false
+				},
+				{
+					"name" : "CAP9P",
+					"strict" : false
+				},
+				{
+					"name" : "CAP9N",
+					"strict" : false
+				},
+				{
+					"name" : "D0",
+					"strict" : false
+				},
+				{
+					"name" : "COMPOUTP",
+					"strict" : false
+				},
+				{
+					"name" : "COMPOUTN",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK_50",
+					"strict" : false
+				},
+				{
+					"name" : "set",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
